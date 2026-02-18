@@ -111,7 +111,7 @@ school.html
 ```
 ## OUTPUT
 
-![alt text](<Screenshot 2026-02-10 111229.png>)
+![alt text](<Screenshot (4)-1.png>)
 ![alt text](<Screenshot 2026-02-16 093536.png>)
 ![alt text](<Screenshot 2026-02-16 093622.png>)
 ![alt text](<Screenshot 2026-02-16 093732.png>)
