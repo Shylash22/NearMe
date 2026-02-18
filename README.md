@@ -55,7 +55,7 @@ maap.html
 </html>
 ```
 medical.html
-
+```
 <html>
 <head><title>mapapp</title></head>
 <body bgcolor="green">
@@ -66,7 +66,7 @@ medical.html
 </html>
 ```
 badmiton.html
-
+```
 <html>
 <head><title>mapapp</title></head>
 <body bgcolor="lightgreen">
@@ -77,7 +77,7 @@ badmiton.html
 </html>
 ```
 mrk nagar.html
-
+```
 <html>
 <head><title>mapapp</title></head>
 <body bgcolor="red">
@@ -88,7 +88,7 @@ mrk nagar.html
 </html>
 ```
 vetclinic.html
-
+```
 <html>
 <head><title>mapapp</title></head>
 <body bgcolor="green">
@@ -99,7 +99,7 @@ vetclinic.html
 </html>
 ```
 school.html
-
+```
 <html>
 <head><title>mapapp</title></head>
 <body bgcolor="brown">
@@ -110,6 +110,7 @@ school.html
 </html>
 ```
 ## OUTPUT
+
 ![alt text](<Screenshot 2026-02-10 111229.png>)
 ![alt text](<Screenshot 2026-02-16 093536.png>)
 ![alt text](<Screenshot 2026-02-16 093622.png>)
@@ -117,5 +118,6 @@ school.html
 ![alt text](<Screenshot 2026-02-16 093809.png>)
 ![alt text](<Screenshot 2026-02-16 093834.png>)
 
+```
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
